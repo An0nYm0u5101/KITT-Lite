@@ -1,4 +1,4 @@
-FROM golang:1.12-stretch
+FROM golang:1.16.5-stretch
 
 RUN apt-get update && apt-get -y install cron python3 sudo procps
 
