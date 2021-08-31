@@ -1,7 +1,13 @@
 libarchive-c==2.1
 python-magic==0.4.6
-mitmproxy==0.16
+mitmproxy==4.0.4
 pefile
 capstone
 hyperframe
 h2
+cryptography>=1.5.2 # not directly required, pinned by Snyk to avoid a vulnerability
+lxml>=4.6.2 # not directly required, pinned by Snyk to avoid a vulnerability
+passlib>=1.7.3 # not directly required, pinned by Snyk to avoid a vulnerability
+pillow>=8.1.0 # not directly required, pinned by Snyk to avoid a vulnerability
+pyopenssl>=17.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
+tornado>=5.1 # not directly required, pinned by Snyk to avoid a vulnerability
