@@ -5,3 +5,6 @@ pefile
 capstone
 hyperframe
 h2
+cryptography>=1.5.2 # not directly required, pinned by Snyk to avoid a vulnerability
+pillow>=8.1.0 # not directly required, pinned by Snyk to avoid a vulnerability
+pyopenssl>=17.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
