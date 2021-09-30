@@ -5,3 +5,4 @@ pefile
 capstone
 hyperframe
 h2
+cryptography>=3.2 # not directly required, pinned by Snyk to avoid a vulnerability
