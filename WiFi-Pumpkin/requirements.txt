@@ -10,7 +10,7 @@ pcapy
 configparser==3.3.0r1
 NetfilterQueue
 configobj
-libarchive-c==2.1
+libarchive-c==4.0
 python-magic==0.4.6
 pefile
 capstone
