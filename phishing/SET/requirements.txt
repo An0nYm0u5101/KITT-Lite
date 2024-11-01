@@ -9,3 +9,4 @@ qrcode
 pillow
 # The pymssql project has been discontinued.
 pymssql<3.0
+werkzeug>=3.0.6 # not directly required, pinned by Snyk to avoid a vulnerability
