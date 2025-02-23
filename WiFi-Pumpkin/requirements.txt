@@ -21,3 +21,4 @@ service_identity
 backports.ssl_match_hostname
 pyOpenSSL
 Flask
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
