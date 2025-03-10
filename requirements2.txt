@@ -18,3 +18,4 @@ impacket
 qrcode
 pillow
 pymssql
+jinja2>=3.1.6 # not directly required, pinned by Snyk to avoid a vulnerability
