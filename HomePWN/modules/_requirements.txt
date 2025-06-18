@@ -1,7 +1,7 @@
 setuptools 
 pytest
 requests>=2.0
-protobuf>=3.0.0
+protobuf>=4.25.8
 zeroconf>=0.21.0
 casttube>=0.2.0
 pychromecast
