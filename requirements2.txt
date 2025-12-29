@@ -7,7 +7,7 @@ dnspython
 pyasn1
 pyasn1-modules
 psutil
-scapy==2.4.3
+scapy==2.7.0rc1
 wsgiref==0.1.2
 pexpect
 http
